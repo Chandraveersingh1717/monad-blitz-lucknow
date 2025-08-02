@@ -10,3 +10,5 @@ Update NFTs: Modify owned NFTs (metadata, price, etc.) after creation.
 Earn NFTs: Engage with the platform and earn NFTs through rewards, activities, or contributions.
 
 Decentralized & Transparent: Built with blockchain principles ensuring transparency and immutability.
+
+BY: Chandraveer Singh and Kinshuk Sanand
